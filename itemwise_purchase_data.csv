@@ -1,0 +1,21 @@
+Vendor,Item,Category,Hist_Unit_Price,Curr_Unit_Price,Increase (%)
+Vendor A,X-Ray Machine,Medical Machine,974908,1259967,29.23957952955561
+Vendor A,Surgical Kit,Equipment,158391,197004,24.378279068886492
+Vendor A,Stretcher A,Stretcher,18624,23930,28.490120274914087
+Vendor B,MRI Scanner,Medical Machine,2900225,3694036,27.37066951702023
+Vendor B,Ventilator,Equipment,452058,542232,19.94744037269554
+Vendor B,Medicine A,Medicine,5439,6964,28.03824232395661
+Vendor C,Ventilator,Equipment,468340,502118,7.212281675705684
+Vendor C,Stretcher B,Stretcher,27042,29719,9.899415723689076
+Vendor C,Medicine B,Medicine,3067,3255,6.129768503423541
+Vendor C,Medicine C,Medicine,2190,2478,13.150684931506849
+Vendor D,X-Ray Machine,Medical Machine,1057035,1212598,14.716920442558667
+Vendor D,MRI Scanner,Medical Machine,3289939,3677616,11.783713922963313
+Vendor D,Surgical Kit,Equipment,153226,192633,25.718220145406136
+Vendor E,Ventilator,Equipment,451326,514145,13.918763820387037
+Vendor E,Stretcher A,Stretcher,21234,23787,12.023170387115004
+Vendor E,Medicine A,Medicine,4731,5609,18.55844430352991
+Vendor E,Medicine C,Medicine,1849,2007,8.545159545700379
+Vendor F,Surgical Kit,Equipment,140201,175328,25.05474283350333
+Vendor F,Stretcher B,Stretcher,30975,33101,6.863599677158999
+Vendor F,Medicine B,Medicine,2825,3663,29.66371681415929

@@ -1,0 +1,7 @@
+Vendor,Total_Hist_Spend,Total_Curr_Spend,Profit_Margin (%),Rule_Trusted,Label,DT_Label,DT_Trusted,Anomaly_Flag,Anomaly,Final_Trusted
+Vendor A,1151923,1480901,28.55902694884988,Not Trusted,0,0,Not Trusted,1,Normal,Not Trusted
+Vendor B,3357722,4243232,26.37234410710595,Not Trusted,0,0,Not Trusted,1,Normal,Not Trusted
+Vendor C,500639,537570,7.376772484764471,Trusted,1,1,Trusted,-1,Anomaly,Not Trusted
+Vendor D,4500200,5082847,12.94713568285854,Trusted,1,1,Trusted,1,Normal,Trusted
+Vendor E,479140,545548,13.85983219935718,Trusted,1,1,Trusted,1,Normal,Trusted
+Vendor F,174001,212092,21.89125349854311,Not Trusted,0,0,Not Trusted,1,Normal,Not Trusted
