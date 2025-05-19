@@ -31,13 +31,13 @@ python --version  # Should show 3.10+
 pip install pandas scikit-learn matplotlib seaborn
 
 ## 📩Alternative: Create and activate virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
-pip install -r requirements.txt
+-python -m venv venv
+-source venv/bin/activate  # Linux/Mac
+-venv\Scripts\activate     # Windows
+-pip install -r requirements.txt
 
 ## 🚀Quick Start
 -Compile Java code
- javac VendorAnalysisWebDisplay.java
+-javac VendorAnalysisWebDisplay.java
 -Execute the program
- java VendorAnalysisWebDisplay
+-java VendorAnalysisWebDisplay
